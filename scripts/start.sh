@@ -1,2 +1,2 @@
 cd /home/ubuntu/code
-pm2 start mqtt
+pm2 start index.js --name "mqtt"
